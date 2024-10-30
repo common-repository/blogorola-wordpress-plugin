@@ -1,0 +1,327 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Blogorola\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-11-22 09:18+0100\n"
+"PO-Revision-Date: 2007-11-26 12:26+0100\n"
+"Last-Translator: Marko Kroflic <marko.kroflic@siol.si>\n"
+"Language-Team: . <marko.kroflic@siol.si>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Slovenian\n"
+"X-Poedit-Country: SLOVENIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:90
+msgid "homepage"
+msgstr "Domača stran"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:90
+msgid "post pages (aka single pages)"
+msgstr "Posamezni zapisi"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:90
+msgid "category pages"
+msgstr "Kategorije"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:90
+msgid "archive pages"
+msgstr "Arhiv"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:90
+msgid "search results"
+msgstr "Rezultati iskanja"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:245
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:296
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:343
+msgid "SOAP addon not found!"
+msgstr "SOAP dodatek ni bil najden!"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:251
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:302
+msgid "API Key is empty or not valid."
+msgstr "API ključ je neveljaven."
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:417
+msgid "Your settings have been saved!"
+msgstr "Nastavitve so bile shranjene!"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:471
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:476
+msgid "Error 404 - Not Found"
+msgstr "Napaka 404 - stran ni bila najdena"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:478
+msgid "Sorry, comments are closed for this item"
+msgstr "Komentiranje je onemogočeno"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:480
+msgid "Spammer!"
+msgstr "Spammer!"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:489
+msgid "Sorry, you must be logged in to post a comment"
+msgstr "Za komentiranje morate biti prijavljeni"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:495
+msgid "Error: please fill the required fields (name, email)"
+msgstr "Napaka: Prosimo, izpolnite zahtevana polja (Ime, E-Mail)"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:497
+msgid "Error: please enter a valid email address"
+msgstr "Napaka: Prosimo, vnesite veljaven E-Mail naslov"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:501
+msgid "Error: please type a comment"
+msgstr "Napaka: Prosimo, vpišite komentar"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:509
+msgid "Ok"
+msgstr "V redu"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:671
+msgid "Hot'or'Not"
+msgstr "Hot'or'Not"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:723
+msgid "Options"
+msgstr "Nastavitve"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:725
+msgid "Statistics"
+msgstr "Statistika"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:745
+#, possible-php-format
+msgid "<a href=\"%s\">Blogorola</a> is a blog aggregate and community portal, aimed at connecting bloggers from the former Yugoslavia. This plugin was put together to help you implement all the useful features of Blogorola into your blog as easily as possible."
+msgstr "<a href=\"%s\">Blogorola</a> je agregat blogov in portal, namenjen  združevanju blogerjev nekdanje Jugoslavije. Ta vtičnik je bil narejen, da bi tudi Vi lahko vse prednosti Blogorole na čim lažji način vključili v svoj blog. "
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:746
+msgid "We hope you enjoy it. Thanks for participating in the Blogorola community."
+msgstr "Upamo, da vam bo všeč. Hvala za sodelovanje v skupnosti Blogorole."
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:747
+msgid "** Plugin is still in 'private beta' stage. Request API Key by sending email to api@blogorola.com."
+msgstr "** Vtičnik je še vedno v 'omejeni' beta verziji. API ključ lahko zahtevate na E-Mail naslovu api@blogorola.com."
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:754
+msgid "API Key"
+msgstr "API ključ"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:758
+#, possible-php-format
+msgid "The Blogorola plugin utilizes Blogorola's API service. To be able to use it, you need to obtain a key. We use this to verify and track API usage. Get the key at <a href=\"%s\">blogorola.com/si/dobrote</a>."
+msgstr "Blogorola vtičnik deluje s pomočjo Blogorolinega API servisa. Za delovanje vtičnika potrebujete ključ. Z njim preverjamo identiteto in sledimo uporabi API. Ključ lahko dobite na naslovu <a href=\"%s\">blogorola.com/si/dobrote</a>."
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:765
+msgid "PHP version"
+msgstr "PHP verzija"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:769
+msgid "SOAP extension"
+msgstr "SOAP dodatek"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:770
+msgid "Available"
+msgstr "Na voljo"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:770
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:778
+msgid "Not found"
+msgstr "Ni bil najden"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:773
+msgid "SOAP library"
+msgstr "SOAP knjižnica"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:774
+msgid "Included"
+msgstr "Vključeno"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:774
+msgid "Not required"
+msgstr "Ni zahtevano"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:777
+msgid "WP functions"
+msgstr "WP funkcije"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:778
+msgid "Readable"
+msgstr "Berljivo"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:783
+msgid "Save API Key"
+msgstr "Shrani API ključ"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:799
+msgid "Comment Synchronization"
+msgstr "Sinhronizacija komentarjev"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:801
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:821
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:902
+msgid "Activate"
+msgstr "Aktiviraj"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:803
+msgid "All comments are synchronized between Blogorola and your blog. So any comments posted on your blog will be displayed on Blogorola and vice-versa. This enables much easier discussions between readers (members of the Blogorola community)."
+msgstr "Komentarji med Blogorolo in vašim blogom se sinhronizirajo. Vsak komentar, vpisan na vašem blogu, bo viden tudi na Blogoroli in obratno. To omogoča veliko enostavnejšo razpravo med bralci (člani Blogoroline skupnosti)."
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:805
+msgid "Comments received from Blogorola will be marked with a small icon before author's name."
+msgstr "Komentarji, prejeti na Blogoroli, bodo označeni z majhno ikono pred avtorjevim imenom."
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:806
+msgid "Available icons"
+msgstr "Razpoložljive ikone"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:811
+msgid "If the icon doesn't appear (i.e. if you have a non-conform WordPress theme installed), paste the code below in the \"comments.php\" file in <em>Theme Editor</em>. Place the code just before the comment author's name."
+msgstr "Če se ikona ne prikaže (npr., če uporabljate neprilagodljivo temo), kopirajte in prilepite spodnjo kodo v datoteko  \"comments.php\". Kodo vstavite tik pred avtorjevo ime (comment_author)."
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:823
+msgid "This will display a Hot'or'Not voting toolbar in your post detail. Hot'or'Not is Blogorola's rating system, which readers can use to rate your posts. Posts with good ratings are read more often and are featured on Blogorola's website."
+msgstr "To bo prikazalo Hot'or'Not glasovalno orodje v vsaki vaši objavi na blogu. Hot'or'Not je Blogorolin ocenjevalni sistem, ki ga bralci uporabljajo za ocenjevanje posameznih objav. Objave z boljšimi ocenami so večkrat brane in so izpostavljene na Blogorolini spletni strani."
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:828
+msgid "Colors (hex)"
+msgstr "Barve (hex)"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:831
+msgid "Border"
+msgstr "Obroba"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:835
+msgid "Background"
+msgstr "Ozadje"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:839
+msgid "On mouse over"
+msgstr "Besedilo ob miškinem kazalcu"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:843
+msgid "Font"
+msgstr "Pisava"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:849
+msgid "Preview"
+msgstr "Predogled"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:864
+msgid "Titles (on mouse over)"
+msgstr "Naslovi (ob miškinem kazalcu)"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:879
+msgid "Position"
+msgstr "Položaj"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:883
+msgid "(in regard to the post body)"
+msgstr "(glede na postavitev objave)"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:884
+msgid "Select the pages where you want to have the Hot'or'Not toolbar displayed"
+msgstr "Izberi strani, na katerih bo prikazano ocenjevalno orodje Hot'or'Not"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:889
+msgid "Display Hot'or'Not percentage in"
+msgstr "Prikaži Hot'or'Not rezultate v odstotkih v"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:890
+msgid "dashboard"
+msgstr "Nadzorna plošča"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:891
+msgid "manage posts"
+msgstr "Uredi objave"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:893
+msgid "You can also uncheck all of the options above and position the toolbar where you think it's best for you. Paste this code anywhere you like."
+msgstr "Ocenjevalno orodje lahko namestite tudi kam drugam. Pustite vse zgornje možnosti neobkljukane in prilepite spodnjo kodo, kamor sami želite."
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:900
+msgid "Update Services"
+msgstr "Osveževanje"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:904
+msgid "Our update service enables your WordPress blog to automatically notify Blogorola of a new post as soon as you publish it. This way it will appear on Blogorola almost immediately instead of waiting for the spider to crawl your blog for new posts."
+msgstr "Servis za osveževaje omogoča, da vaš Wordpress blog samodejno obvesti Blogorolo o novem prispevku, takoj ko ga vi objavite. Tako se bo na Blogoroli pojavil takoj, namesto da bi čakali na Blogorlinega pajka, ki nove objave preverja le v določenih intervalih."
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:906
+msgid "You can also add our server to your <em>Options &raquo; Writing &raquo; Update Services</em> list. Simply add line below."
+msgstr "Naš strežnik lahko dodate tudi na seznam v <em>Nastavitve &raquo; Pisanje &raquo; Osveževanje</em>. Preprosto dodajte spodnjo vrstico."
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:914
+msgid "Update options"
+msgstr "Posodobi"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:919
+#, possible-php-format
+msgid "If you don't have the standard Kubrick theme or a Kubrick-based theme installed, you might run into some problems - or not. For any questions, bug reports and feature requests (or donations, for that matter) visit the official <a href=\"%s\">Blogorola</a> Plugin page or <a href=\"%s\">author's</a> page."
+msgstr "Če nimate nameščene standardne Kubrick teme ali teme, ki na njej temelji, lahko naletite na določene težave - ali pa tudi ne. Za vsa vprašanja, obvestila o hroščih in dodatne želje (ali pa mogoče donacije) obiščite uradno <a href=\"%s\">Blogorola</a> stran z dodatki ali <a href=\"%s\">avtorjevo</a> stran."
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:958
+msgid "Blog"
+msgstr "Blog"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:964
+msgid "URL"
+msgstr "URL"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:964
+msgid "Clicks"
+msgstr "Kliki"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:964
+msgid "Rate"
+msgstr "Ocena"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:964
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:993
+msgid "Votes"
+msgstr "Glasovi"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:964
+msgid "Language"
+msgstr "Jezik"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:964
+msgid "Registered"
+msgstr "Registriranih"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:987
+msgid "Posts"
+msgstr "Objave"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:993
+msgid "Title"
+msgstr "Naslov"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:993
+msgid "Author"
+msgstr "Avtor"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:993
+msgid "Comments"
+msgstr "Komentarji"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:993
+msgid "Date"
+msgstr "Datum"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:1013
+msgid "No posts found."
+msgstr "Nisem našel nobene objave."
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:1028
+msgid "Next refresh"
+msgstr "Naslednje osveževanje"
+

@@ -1,0 +1,324 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-11-22 09:18+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:90
+msgid "homepage"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:90
+msgid "post pages (aka single pages)"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:90
+msgid "category pages"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:90
+msgid "archive pages"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:90
+msgid "search results"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:245
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:296
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:343
+msgid "SOAP addon not found!"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:251
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:302
+msgid "API Key is empty or not valid."
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:417
+msgid "Your settings have been saved!"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:471
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:476
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:478
+msgid "Sorry, comments are closed for this item"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:480
+msgid "Spammer!"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:489
+msgid "Sorry, you must be logged in to post a comment"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:495
+msgid "Error: please fill the required fields (name, email)"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:497
+msgid "Error: please enter a valid email address"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:501
+msgid "Error: please type a comment"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:509
+msgid "Ok"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:671
+msgid "Hot'or'Not"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:723
+msgid "Options"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:725
+msgid "Statistics"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:745
+#, possible-php-format
+msgid "<a href=\"%s\">Blogorola</a> is a blog aggregate and community portal, aimed at connecting bloggers from the former Yugoslavia. This plugin was put together to help you implement all the useful features of Blogorola into your blog as easily as possible."
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:746
+msgid "We hope you enjoy it. Thanks for participating in the Blogorola community."
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:747
+msgid "** Plugin is still in 'private beta' stage. Request API Key by sending email to api@blogorola.com."
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:754
+msgid "API Key"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:758
+#, possible-php-format
+msgid "The Blogorola plugin utilizes Blogorola's API service. To be able to use it, you need to obtain a key. We use this to verify and track API usage. Get the key at <a href=\"%s\">blogorola.com/si/dobrote</a>."
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:765
+msgid "PHP version"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:769
+msgid "SOAP extension"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:770
+msgid "Available"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:770
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:778
+msgid "Not found"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:773
+msgid "SOAP library"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:774
+msgid "Included"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:774
+msgid "Not required"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:777
+msgid "WP functions"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:778
+msgid "Readable"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:783
+msgid "Save API Key"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:799
+msgid "Comment Synchronization"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:801
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:821
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:902
+msgid "Activate"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:803
+msgid "All comments are synchronized between Blogorola and your blog. So any comments posted on your blog will be displayed on Blogorola and vice-versa. This enables much easier discussions between readers (members of the Blogorola community)."
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:805
+msgid "Comments received from Blogorola will be marked with a small icon before author's name."
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:806
+msgid "Available icons"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:811
+msgid "If the icon doesn't appear (i.e. if you have a non-conform WordPress theme installed), paste the code below in the \"comments.php\" file in <em>Theme Editor</em>. Place the code just before the comment author's name."
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:823
+msgid "This will display a Hot'or'Not voting toolbar in your post detail. Hot'or'Not is Blogorola's rating system, which readers can use to rate your posts. Posts with good ratings are read more often and are featured on Blogorola's website."
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:828
+msgid "Colors (hex)"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:831
+msgid "Border"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:835
+msgid "Background"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:839
+msgid "On mouse over"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:843
+msgid "Font"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:849
+msgid "Preview"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:864
+msgid "Titles (on mouse over)"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:879
+msgid "Position"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:883
+msgid "(in regard to the post body)"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:884
+msgid "Select the pages where you want to have the Hot'or'Not toolbar displayed"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:889
+msgid "Display Hot'or'Not percentage in"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:890
+msgid "dashboard"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:891
+msgid "manage posts"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:893
+msgid "You can also uncheck all of the options above and position the toolbar where you think it's best for you. Paste this code anywhere you like."
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:900
+msgid "Update Services"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:904
+msgid "Our update service enables your WordPress blog to automatically notify Blogorola of a new post as soon as you publish it. This way it will appear on Blogorola almost immediately instead of waiting for the spider to crawl your blog for new posts."
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:906
+msgid "You can also add our server to your <em>Options &raquo; Writing &raquo; Update Services</em> list. Simply add line below."
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:914
+msgid "Update options"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:919
+#, possible-php-format
+msgid "If you don't have the standard Kubrick theme or a Kubrick-based theme installed, you might run into some problems - or not. For any questions, bug reports and feature requests (or donations, for that matter) visit the official <a href=\"%s\">Blogorola</a> Plugin page or <a href=\"%s\">author's</a> page."
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:958
+msgid "Blog"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:964
+msgid "URL"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:964
+msgid "Clicks"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:964
+msgid "Rate"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:964
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:993
+msgid "Votes"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:964
+msgid "Language"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:964
+msgid "Registered"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:987
+msgid "Posts"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:993
+msgid "Title"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:993
+msgid "Author"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:993
+msgid "Comments"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:993
+msgid "Date"
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:1013
+msgid "No posts found."
+msgstr ""
+
+#: D:\Projekti\blog.siol.net\wp-content/plugins/blogorola/blogorola.php:1028
+msgid "Next refresh"
+msgstr ""
